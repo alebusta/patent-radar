@@ -1,0 +1,356 @@
+{
+  "cluster": "drones_ultima_milla",
+  "timestamp": "2026-02-25T16:29:40.230973",
+  "count": 13,
+  "patents": [
+    {
+      "id": "US12528599B2",
+      "title": "Landing pad for unmanned aerial vehicle delivery",
+      "assignee": "Ryan Walsh",
+      "inventors": [
+        "Ryan Walsh",
+        "Alex J. Falesch"
+      ],
+      "country": "US",
+      "date": "2024-03-28",
+      "abstract": "\n     A landing pad receives and stores packages delivered from an aerial vehicle or awaiting pickup from an aerial vehicle. The landing pad can be placed outside of a window and can contain a transmitter for sending out an identification signal via radio frequency to aid aerial vehicles in finding the landing pad. The landing pad contains a landing platform with a trapdoor that leads to a storage compartment. The trapdoor can be configured to only open when it receives a signal from an authoriz",
+      "cpc_codes": [
+        "A47",
+        "B64F1/00",
+        "A47G",
+        "A01M29/16",
+        "A47G29/00",
+        "A01M29/00",
+        "B64F",
+        "B64",
+        "A01M",
+        "A47G29/14",
+        "A01",
+        "B64F1/32",
+        "B",
+        "A"
+      ],
+      "url": "https://patents.google.com/patent/US12528599B2/en"
+    },
+    {
+      "id": "US12258153B2",
+      "title": "Drone docking station",
+      "assignee": "Aaron ZHANG",
+      "inventors": [
+        "Aaron ZHANG",
+        "Ruzhi Wang",
+        "Evan Hertafeld"
+      ],
+      "country": "US",
+      "date": "2023-07-31",
+      "abstract": "\n     A drone docking station that includes an elevated platform fixed above the ground for drone docking is provided. The platform has a first locking element and a second locking element adapted on the drone to correspond to the first locking element to fulfill auto-alignment while the drone is approaching or docking the platform as well as auto-separation while the drone is leaving or about to leave the platform. A bearing and identification system is also included to identify location and be",
+      "cpc_codes": [
+        "B60",
+        "B64U70/00",
+        "B64U70/90",
+        "B60L53/10",
+        "B60L",
+        "B60L53/14",
+        "B64",
+        "B64U",
+        "B60L53/00",
+        "B64U70/99",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US12258153B2/en"
+    },
+    {
+      "id": "US20230303249A1",
+      "title": "Aircraft Cargo Loading/Unloading Device",
+      "assignee": "Aaron ZHANG",
+      "inventors": [
+        "Aaron ZHANG",
+        "Evan Hertafeld"
+      ],
+      "country": "US",
+      "date": "2022-11-17",
+      "abstract": "\n     A cargo loading/unloading device for an aircraft includes a base, two arms pivotally movable on top of the base and a push rod pivotally connected to the base and sandwiched between the two arms. A cable extends through the push rod and forms into a loop after passing through a bottom end of the push rod so that a package is able to be securely transported with the cooperation of the push rod and the two arms and be released onto the arms when the package weight is not functioning. \n   \n  ",
+      "cpc_codes": [
+        "B64D1/00",
+        "B64D1/08",
+        "B64D1/22",
+        "B64D1/02",
+        "B64D1/12",
+        "B64",
+        "B64D",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US20230303249A1/en"
+    },
+    {
+      "id": "US20240239514A1",
+      "title": "Landing Pad for Unmanned Aerial Vehicle Delivery",
+      "assignee": "Ryan Walsh",
+      "inventors": [
+        "Ryan Walsh",
+        "Alex J. Falesch"
+      ],
+      "country": "US",
+      "date": "2024-03-28",
+      "abstract": "\n     A landing pad receives and stores packages delivered from an aerial vehicle or awaiting pickup from an aerial vehicle. The landing pad can be placed outside of a window and can contain a transmitter for sending out an identification signal via radio frequency to aid aerial vehicles in finding the landing pad. The landing pad contains a landing platform with a trapdoor that leads to a storage compartment. The trapdoor can be configured to only open when it receives a signal from an authoriz",
+      "cpc_codes": [
+        "A47",
+        "B64F1/00",
+        "A47G",
+        "A01M29/16",
+        "A47G29/00",
+        "A01M29/00",
+        "B64F",
+        "B64",
+        "A01M",
+        "A47G29/14",
+        "A01",
+        "B64F1/32",
+        "B",
+        "A"
+      ],
+      "url": "https://patents.google.com/patent/US20240239514A1/en"
+    },
+    {
+      "id": "US11117680B2",
+      "title": "Landing pad for unmanned aerial vehicle delivery",
+      "assignee": "Ryan Walsh",
+      "inventors": [
+        "Ryan Walsh",
+        "Alex J. Falesch"
+      ],
+      "country": "US",
+      "date": "2018-09-04",
+      "abstract": "\n     A landing pad receives and stores packages delivered from an aerial vehicle are awaiting pickup from an aerial vehicle. The landing pad can be placed outside of a window and can contain a transmitter for sending out an identification signal via radio frequency to aid aerial vehicles in finding the landing pad. The landing pad contains a landing platform with a trapdoor that leads to a storage compartment. The trapdoor can be configured to only open when it receives a signal from an authori",
+      "cpc_codes": [
+        "A47",
+        "B64F1/00",
+        "A47G",
+        "A01M29/16",
+        "A47G29/00",
+        "A01M29/00",
+        "B64F",
+        "B64",
+        "A01M",
+        "A47G29/14",
+        "A01",
+        "B64F1/32",
+        "B",
+        "A"
+      ],
+      "url": "https://patents.google.com/patent/US11117680B2/en"
+    },
+    {
+      "id": "US20210380277A1",
+      "title": "Landing Pad for Unmanned Aerial Vehicle Delivery",
+      "assignee": "Ryan Walsh",
+      "inventors": [
+        "Ryan Walsh",
+        "Alex J. Falesch"
+      ],
+      "country": "US",
+      "date": "2021-08-24",
+      "abstract": "\n     A landing pad receives and stores packages delivered from an aerial vehicle are awaiting pickup from an aerial vehicle. The landing pad can be placed outside of a window and can contain a transmitter for sending out an identification signal via radio frequency to aid aerial vehicles in finding the landing pad. The landing pad contains a landing platform with a trapdoor that leads to a storage compartment. The trapdoor can be configured to only open when it receives a signal from an authori",
+      "cpc_codes": [
+        "A47",
+        "B64F1/00",
+        "A47G",
+        "A01M29/16",
+        "A47G29/00",
+        "A01M29/00",
+        "B64F",
+        "B64",
+        "A01M",
+        "A47G29/14",
+        "A01",
+        "B64F1/32",
+        "B",
+        "A"
+      ],
+      "url": "https://patents.google.com/patent/US20210380277A1/en"
+    },
+    {
+      "id": "US11987357B2",
+      "title": "Gaseous matter capture system and method",
+      "assignee": "Eran OREN",
+      "inventors": [
+        "Eran OREN"
+      ],
+      "country": "US",
+      "date": "2022-07-11",
+      "abstract": "\n     A gaseous matter capture system and method comprising an aerial unit configured to capture gaseous matter directly from the atmosphere and further comprising storage means configured to transfer said gaseous matter for further processing in a non-aerial unit for the purposes of climate change mitigation and further use of captured gases. \n   \n   ",
+      "cpc_codes": [
+        "B01D53/22",
+        "B01",
+        "B01D",
+        "B01D53/00",
+        "B01D53/02",
+        "B01D53/04",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US11987357B2/en"
+    },
+    {
+      "id": "US11754405B2",
+      "title": "Method and apparatus for trajectory anonymization based on negative gapping",
+      "assignee": "Stefano Bennati",
+      "inventors": [
+        "Stefano Bennati",
+        "Aleksandra KOVACEVIC",
+        "Kai PÃTHKOW",
+        "Elena Mumford",
+        "Elena VIDYAKINA"
+      ],
+      "country": "US",
+      "date": "2020-12-03",
+      "abstract": "\n     An approach is provided for probe trajectory anonymization using based on a negative gap. The approach involves, for example, receiving a probe trajectory generated from at least one sensor of a probe device. The approach also involves processing the probe trajectory to segment the probe trajectory into a first subtrajectory and a second subtrajectory based on a negative gap between the first subtrajectory and the second subtrajectory. The negative gap specifies an amount of overlap betwee",
+      "cpc_codes": [
+        "G01C21/00",
+        "G01C21/3863",
+        "G01C21/3407",
+        "G01C21/34",
+        "G",
+        "G01",
+        "G01C",
+        "G01C21/26",
+        "G01C21/387",
+        "G01C21/38"
+      ],
+      "url": "https://patents.google.com/patent/US11754405B2/en"
+    },
+    {
+      "id": "US20230339601A1",
+      "title": "Rotor assembly",
+      "assignee": "Bryan Marshall",
+      "inventors": [
+        "Bryan Marshall",
+        "Eric LOOS"
+      ],
+      "country": "US",
+      "date": "2023-04-21",
+      "abstract": "\n     A rotor assembly includes a hub assembly and a shaft assembly. The hub assembly includes a hub and a first coupling, and the shaft assembly may be coupled to the hub assembly with a second coupling. The second coupling may be configured to facilitate rotation of the hub relative to a shaft of the shaft assembly. A rotor blade may be coupled to the hub assembly with a third coupling and be configured to rotate with the shaft. The first coupling may be configured to couple the hub to an actu",
+      "cpc_codes": [
+        "B64C27/00",
+        "B64C27/41",
+        "B64C11/04",
+        "B64C27/37",
+        "B64C",
+        "B64C11/06",
+        "B64",
+        "B64C27/32",
+        "B64C11/00",
+        "B64C11/02",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US20230339601A1/en"
+    },
+    {
+      "id": "US20240067340A1",
+      "title": "Visual and tactile confirmation of package presence for uav aerial deliveries",
+      "assignee": "Ali Shoeb",
+      "inventors": [
+        "Ali Shoeb",
+        "Ivan Qiu"
+      ],
+      "country": "US",
+      "date": "2022-08-26",
+      "abstract": "\n     A technique for validating a presence of a package carried by an unmanned aerial vehicle (UAV) includes: capturing an image of a scene below the UAV with a camera mounted to the UAV and oriented to face down from the UAV; analyzing the image to identify whether the package is present in the image; and determining whether the package is attached to the UAV, via a tether extending from an underside of the UAV, based at least on the analyzing of the image. \n   \n   ",
+      "cpc_codes": [
+        "B64D1/00",
+        "B64D1/22",
+        "B64C39/00",
+        "B64C39/024",
+        "B64C",
+        "B64C39/02",
+        "B64",
+        "B64D",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US20240067340A1/en"
+    },
+    {
+      "id": "US20240119812A1",
+      "title": "Providing optical and radio frequency information in ethernet advanced physical layer based end point field devices",
+      "assignee": "Jeffrey Mattar",
+      "inventors": [
+        "Jeffrey Mattar",
+        "Mark Bertolina"
+      ],
+      "country": "US",
+      "date": "2023-10-06",
+      "abstract": "\n     Systems/methods for providing Ethernet-APL based end point field devices employ a protective enclosure that allows optical and radio frequency signals to pass through with little or no diffraction or attenuation. The disclosed Ethernet-APL based end point field device is advantageously able to use visual status/configuration indicators as well as radio frequency modules that transmit and receive wireless communication during device operation. To achieve the above, the Ethernet-APL based en",
+      "cpc_codes": [
+        "H05K7/1462",
+        "H05K7/14",
+        "G08B5/00",
+        "G08B5/22",
+        "H05K7/00",
+        "G08",
+        "G",
+        "H05K",
+        "H05",
+        "G08B5/36",
+        "H",
+        "G08B"
+      ],
+      "url": "https://patents.google.com/patent/US20240119812A1/en"
+    },
+    {
+      "id": "US11748849B2",
+      "title": "Systems and methods for Kalman filter-based microvessel inpainting for super-resolution imaging",
+      "assignee": "Pengfei Song",
+      "inventors": [
+        "Pengfei Song",
+        "Shigao Chen",
+        "Joshua D. Trzasko",
+        "Armando Manduca",
+        "Shanshan Tang"
+      ],
+      "country": "US",
+      "date": "2019-10-18",
+      "abstract": "\n     Described here are systems and methods for super-resolution imaging with ultrasound in which a Kalman filter-based microvessel inpainting technique is used to facilitate robust super-resolution imaging with limited or otherwise missing microbubble signals. The systems and methods described in the present disclosure can be combined with both local and global microbubble tracking methods. \n   \n   ",
+      "cpc_codes": [
+        "A61B8/00",
+        "A61B8/0891",
+        "G06T3/00",
+        "G06T3/4053",
+        "G06T3/40",
+        "G",
+        "A61B",
+        "A61B8/08",
+        "G06",
+        "G06T",
+        "A61",
+        "A"
+      ],
+      "url": "https://patents.google.com/patent/US11748849B2/en"
+    },
+    {
+      "id": "US20230415893A1",
+      "title": "Anti-rattle device for use on cargo aircraft",
+      "assignee": "August PADALECKI",
+      "inventors": [
+        "August PADALECKI",
+        "Michael HUIZAR",
+        "Tye THOMPSON",
+        "David Light",
+        "Luke Perkins"
+      ],
+      "country": "US",
+      "date": "2023-06-26",
+      "abstract": "\n     Embodiments are directed to an anti-rattle device, including a plurality of handle bracket assemblies, and a wedge assembly. Each of the handle bracket assemblies includes an adjustable handle, a bracket, and a threaded rod. The wedge assembly includes a frame and a rubber wedge. Each of the handle bracket assemblies is secured to a pallet. The adjustable handle of each of the handle bracket assemblies is configured to actuate to move the wedge assembly in a downward direction to engage a ",
+      "cpc_codes": [
+        "B60P",
+        "B60",
+        "B60P7/00",
+        "B64",
+        "B60P7/06",
+        "B64D9/00",
+        "B64D",
+        "B64D9/003",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US20230415893A1/en"
+    }
+  ]
+}

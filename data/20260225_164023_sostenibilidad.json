@@ -1,0 +1,270 @@
+{
+  "cluster": "sostenibilidad",
+  "timestamp": "2026-02-25T16:40:23.944035",
+  "count": 10,
+  "patents": [
+    {
+      "id": "US20240025594A1",
+      "title": "Collapsible fruit crate",
+      "assignee": "Haron Hacko",
+      "inventors": [
+        "Haron Hacko",
+        "Ahmad Jaroushi"
+      ],
+      "country": "US",
+      "date": "2023-07-20",
+      "abstract": "\n     A crate for agricultural products can include a base, a side wall, and a hinge mechanism pivotably connecting the side wall with the base such that the side wall is movable between a folded configuration and an erected configuration relative to the base. The hinge mechanism can include a hinge extending from the side wall. The hinge can include a rod. The hinge can further include a hinge receiver defined by the base. The hinge receiver may define a receiving area with an opening. The open",
+      "cpc_codes": [
+        "B65D11/22",
+        "B65D11/18",
+        "B65D11/00",
+        "B65D11/20",
+        "B65D",
+        "B65",
+        "B",
+        "B65D11/1833"
+      ],
+      "url": "https://patents.google.com/patent/US20240025594A1/en"
+    },
+    {
+      "id": "US11787582B2",
+      "title": "Binding machine",
+      "assignee": "Osamu Itagaki",
+      "inventors": [
+        "Osamu Itagaki"
+      ],
+      "country": "US",
+      "date": "2022-07-26",
+      "abstract": "\n     A binding machine includes a wire feeding unit, a binding unit configured to rotate while locking the wire wound around the reinforcing bars, whereby to twist the wire, a curl guide configured to curl the fed wire, a leading guide configured to lead the curled wire to the binding unit, and a contact switch unit configured to be activated with the reinforcing bars abutting against the contact switch unit, in which the contact switch unit includes an abutting portion against which the reinfo",
+      "cpc_codes": [
+        "E04G21/122",
+        "B65B13/285",
+        "B65B",
+        "E04G21/00",
+        "B65B13/28",
+        "B65B13/18",
+        "B65B13/00",
+        "E04G21/123",
+        "B65B13/24",
+        "B",
+        "E04G",
+        "B65",
+        "E",
+        "E04G21/12",
+        "E04"
+      ],
+      "url": "https://patents.google.com/patent/US11787582B2/en"
+    },
+    {
+      "id": "US20240046283A1",
+      "title": "Methods and iot systems for industrial gas demand regulation based on smart gas",
+      "assignee": "Zehua Shao",
+      "inventors": [
+        "Zehua Shao",
+        "Yaqiang QUAN",
+        "Xiaojun Wei",
+        "Feng Wang"
+      ],
+      "country": "US",
+      "date": "2023-10-10",
+      "abstract": "\n     A method and an Internet of Things (IoT) system for an industrial gas demand regulation based on a smart gas. The method includes: obtaining gas data and a user feature of at least one industrial user, the gas data including gas operation data and gas demand data of the at least one industrial user; determining, based on the gas data, the user feature, and an external feature, an estimated usage distribution; sending the estimated usage distribution to a smart gas user platform to obtain f",
+      "cpc_codes": [
+        "G",
+        "G06Q10/00",
+        "G06Q10/063",
+        "G06Q",
+        "G06Q30/018",
+        "G06Q10/0631",
+        "G06Q10/06",
+        "G06Q10/06315",
+        "G06Q30/00",
+        "G06"
+      ],
+      "url": "https://patents.google.com/patent/US20240046283A1/en"
+    },
+    {
+      "id": "US11815523B2",
+      "title": "Multi-point filtering liquid level detection methods and apparatus",
+      "assignee": "William D. Dunfee",
+      "inventors": [
+        "William D. Dunfee",
+        "Mark H. Sprenkle",
+        "Colin Ingersoll"
+      ],
+      "country": "US",
+      "date": "2021-10-06",
+      "abstract": "\n     A method of detecting a level of a liquid in a well of a container. The method includes looking up an expected liquid level of the liquid in the well of a container; measuring and recording a measured liquid level of the liquid in the well; changing a level of the liquid in the well based upon an expected amount of the liquid to be added or removed; and calculating a next expected liquid level at least in part based on multi-point filtering. Apparatus for carrying out the method are provid",
+      "cpc_codes": [
+        "G",
+        "G01N35/00",
+        "G01N35/1009",
+        "G01N35/10",
+        "G01N35/1011",
+        "G01",
+        "G01N"
+      ],
+      "url": "https://patents.google.com/patent/US11815523B2/en"
+    },
+    {
+      "id": "US20240053365A1",
+      "title": "Novel biomarker for diagnosis of alzheimer's disease, discovered from blood-derived exosomes, and method for diagnosing alzheimer's disease using same",
+      "assignee": "So Youn Kim",
+      "inventors": [
+        "So Youn Kim",
+        "Gunjoo Park"
+      ],
+      "country": "US",
+      "date": "2021-11-30",
+      "abstract": "\n     The present invention relates to a novel exosome-derived biomarker for diagnosis of Alzheimer's disease, a composition for diagnosis of Alzheimer's disease containing the biomarker, a kit for diagnosis of Alzheimer's disease including the composition, and a method for providing information for diagnosis of Alzheimer's disease using the biomarker, composition, or kit. The biomarker for diagnosis of Alzheimer's disease provided by the present invention can be widely utilized for effective di",
+      "cpc_codes": [
+        "G",
+        "G01N33/00",
+        "G01N33/68",
+        "G01N33/6893",
+        "G01N33/48",
+        "G01N33/50",
+        "G01",
+        "G01N"
+      ],
+      "url": "https://patents.google.com/patent/US20240053365A1/en"
+    },
+    {
+      "id": "US20230391506A1",
+      "title": "Glass articles with mixed polymer and metal oxide coatings",
+      "assignee": "David Henry",
+      "inventors": [
+        "David Henry",
+        "Valerie Lacarriere"
+      ],
+      "country": "US",
+      "date": "2023-08-16",
+      "abstract": "\n     According to one or more embodiments, a pharmaceutical package may include a glass container and a coating. The glass container may include a first surface and a second surface opposite the first surface. The first surface may be an outer surface of the glass container. The coating may be positioned over at least a portion of the first surface of the glass container. The coating may include one or more polyimide compositions and one or more metal oxide compositions. The one or more polyimi",
+      "cpc_codes": [
+        "B65D23/08",
+        "B65D23/0807",
+        "A61",
+        "B65D1/42",
+        "B65D23/00",
+        "B65D1/00",
+        "B65D23/0814",
+        "B65D1/40",
+        "A",
+        "B65D",
+        "B65",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US20230391506A1/en"
+    },
+    {
+      "id": "US11772863B2",
+      "title": "Tamper-resistant secure container cover",
+      "assignee": "Zakary James Borg",
+      "inventors": [
+        "Zakary James Borg",
+        "Ronald Lee Mellor, Jr."
+      ],
+      "country": "US",
+      "date": "2020-12-16",
+      "abstract": "\n     A secure container cover for a container and manufacturing method therefore are provided. The secure container cover includes an integrally molded body with an annular structure and a side wall. The annular structure includes a central void defined by an intermediate perimeter, and a graspable loop integrally formed with the annular structure is configured to reside within the central void. A tear initiation point is formed where the graspable loop joins the annular structure. A thin secti",
+      "cpc_codes": [
+        "B65D51/00",
+        "B65D51/18",
+        "B65D21/00",
+        "B65D21/0209",
+        "B65D21/0224",
+        "B65D21/02",
+        "B65D",
+        "B29",
+        "B65",
+        "B",
+        "B65D51/20"
+      ],
+      "url": "https://patents.google.com/patent/US11772863B2/en"
+    },
+    {
+      "id": "US20240067416A1",
+      "title": "Novel cup lid structure of fragrance cup",
+      "assignee": "Wenxiang Li",
+      "inventors": [
+        "Wenxiang Li"
+      ],
+      "country": "US",
+      "date": "2023-03-13",
+      "abstract": "\n     The present utility model provides a novel cup lid structure of a fragrance cup, comprising a cup lid body and a suction nozzle installed on the cup lid body, wherein a flavor packet accommodating part which can rotate relative to the center of the suction nozzle is installed at the outer diameter of the suction nozzle, and a plurality of cavities for placing flavor packets are arranged in the flavor packet accommodating part; the cup lid further comprises a channel which enables the singl",
+      "cpc_codes": [
+        "A61",
+        "B65D47/00",
+        "A61L9/015",
+        "A61L9/12",
+        "A61L",
+        "A61L9/04",
+        "B65D47/04",
+        "A61L9/125",
+        "A",
+        "B65D47/06",
+        "A61L9/00",
+        "B65D",
+        "B65",
+        "B"
+      ],
+      "url": "https://patents.google.com/patent/US20240067416A1/en"
+    },
+    {
+      "id": "US20240043160A1",
+      "title": "Robotic Product Labeling System",
+      "assignee": "Brian Michael Ghere",
+      "inventors": [
+        "Brian Michael Ghere",
+        "Timothy David Ralston"
+      ],
+      "country": "US",
+      "date": "2023-10-18",
+      "abstract": "\n     A system moves items, like containers and/or pallets, through a label printing station. The station has a label printer that prints adhesive labels; and a robot arm terminating at a movable end with a suction pad or vacuum device and sensors. The station has sensors configured to measure a height of the item; and a processor coupled to receive the height of the item, to control the robot arm and label printer, and to receive label information from a server. The processor has a memory conta",
+      "cpc_codes": [
+        "B65C9/00",
+        "B65C",
+        "B25J19/00",
+        "B25J15/00",
+        "B25",
+        "B25J15/0616",
+        "B25J15/06",
+        "B65",
+        "B",
+        "B25J",
+        "B65C9/40"
+      ],
+      "url": "https://patents.google.com/patent/US20240043160A1/en"
+    },
+    {
+      "id": "US11836172B2",
+      "title": "Facilitating generation of data visualizations via natural language processing",
+      "assignee": "Fan Du",
+      "inventors": [
+        "Fan Du",
+        "Zening Qu",
+        "Vasanthi Swaminathan Holtcamp",
+        "Tak Yeon Lee",
+        "Sungchul Kim"
+      ],
+      "country": "US",
+      "date": "2021-06-22",
+      "abstract": "\n     Methods, computer systems, computer-storage media, and graphical user interfaces are provided for facilitating data visualization generation. In one implementation, dataset intent data, visual design intent data, and insight intent data determined from a user input natural language query are obtained. A set of candidate intent recommendations is generated using various combinations of the dataset intent data, visual design intent data, and insight intent data. Each of the candidate intent ",
+      "cpc_codes": [
+        "G",
+        "G06N5/022",
+        "G06F",
+        "G06F16/00",
+        "G06F16/3344",
+        "G06N5/00",
+        "G06F16/33",
+        "G06N",
+        "G06F16/30",
+        "G06N5/02",
+        "G06",
+        "G06F16/334",
+        "G06F16/3331"
+      ],
+      "url": "https://patents.google.com/patent/US11836172B2/en"
+    }
+  ]
+}
