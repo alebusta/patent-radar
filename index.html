@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="dark">
+<html lang="es" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -936,7 +936,7 @@
     const closeRadarModal = document.getElementById('closeRadarModal');
 
     // Load saved theme
-    const savedTheme = localStorage.getItem('patent-radar-theme') || 'dark';
+    const savedTheme = localStorage.getItem('patent-radar-theme') || 'light';
     html.setAttribute('data-theme', savedTheme);
     updateThemeIcon(savedTheme);
 
